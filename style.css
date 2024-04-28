@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+}
+body{
+    font-family:sans-serif;
+}
+header{
+    background-image:linear-gradient (to rigth, #BBE7FA,  #FFFFFF,
+    #BBE7FA);
+    height:400px;
+
+}
+h1{
+    text-align: center;
+    font-family:riboye;
+    font-size:64px;
+    font-weight:400;
+    line-height:87.44px;
+    padding:100px;
+
+}
